@@ -7,3 +7,6 @@
 [submodule "web-app/wellsense-monitor"]
 	path = web-app/wellsense-monitor
 	url = https://github.com/ubaidillahdl/wellsense-monitor
+[submodule "wellsense-server"]
+	path = wellsense-server
+	url = https://github.com/ubaidillahdl/wellsense-server
