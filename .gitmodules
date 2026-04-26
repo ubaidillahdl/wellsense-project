@@ -1,12 +1,12 @@
-[submodule "web-app/wellsense-app"]
-	path = web-app/wellsense-app
-	url = https://github.com/ubaidillahdl/wellsense-app
-[submodule "web-app/wellsense-monitor"]
-	path = web-app/wellsense-monitor
-	url = https://github.com/ubaidillahdl/wellsense-monitor
 [submodule "wellsense-server"]
 	path = wellsense-server
 	url = https://github.com/ubaidillahdl/wellsense-server
 [submodule "wellsense-firmware"]
 	path = wellsense-firmware
 	url = https://github.com/ubaidillahdl/wellsense-firmware
+[submodule "wellsense-web/wellsense-app"]
+	path = wellsense-web/wellsense-app
+	url = https://github.com/ubaidillahdl/wellsense-app
+[submodule "wellsense-web/wellsense-monitor"]
+	path = wellsense-web/wellsense-monitor
+	url = https://github.com/ubaidillahdl/wellsense-monitor
