@@ -1,3 +1,9 @@
 [submodule "firmware-arduino"]
 	path = firmware-arduino
 	url = https://github.com/ubaidillahdl/firmware-arduino
+[submodule "web-app/wellsense-app"]
+	path = web-app/wellsense-app
+	url = https://github.com/ubaidillahdl/wellsense-app
+[submodule "web-app/wellsense-monitor"]
+	path = web-app/wellsense-monitor
+	url = https://github.com/ubaidillahdl/wellsense-monitor
