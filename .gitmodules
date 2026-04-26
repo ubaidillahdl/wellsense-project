@@ -1,0 +1,3 @@
+[submodule "firmware-arduino"]
+	path = firmware-arduino
+	url = https://github.com/ubaidillahdl/firmware-arduino
