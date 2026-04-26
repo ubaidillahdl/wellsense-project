@@ -1,6 +1,3 @@
-[submodule "firmware-arduino"]
-	path = firmware-arduino
-	url = https://github.com/ubaidillahdl/firmware-arduino
 [submodule "web-app/wellsense-app"]
 	path = web-app/wellsense-app
 	url = https://github.com/ubaidillahdl/wellsense-app
