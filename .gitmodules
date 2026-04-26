@@ -7,3 +7,6 @@
 [submodule "wellsense-server"]
 	path = wellsense-server
 	url = https://github.com/ubaidillahdl/wellsense-server
+[submodule "wellsense-firmware"]
+	path = wellsense-firmware
+	url = https://github.com/ubaidillahdl/wellsense-firmware
