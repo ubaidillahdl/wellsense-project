@@ -10,3 +10,6 @@
 [submodule "wellsense-engine"]
 	path = wellsense-engine
 	url = https://github.com/ubaidillahdl/wellsense-engine
+[submodule "wellsense-models"]
+	path = wellsense-models
+	url = https://github.com/ubaidillahdl/wellsense-models
